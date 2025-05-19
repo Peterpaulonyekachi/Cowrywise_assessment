@@ -45,7 +45,6 @@ It counts the total number of successful transactions the customer has made (tot
 Using a simplified model, it estimates the CLV by:
 - Calculating the average monthly transactions (total_transactions / tenure_months), scaling this to an annual basis (* 12), multiplying by the average profit per transaction (assumed as 0.1% of transaction amount, represented by amount * 0.001)
 - This gives an estimated annual profit value per customer, rounded to 2 decimals.
-
 - Order customers by CLV:
 The result is sorted to show customers with the highest estimated lifetime value at the top.
 
