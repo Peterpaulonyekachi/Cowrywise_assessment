@@ -7,6 +7,7 @@ Goal of the Query
 - Their total investment amount
 - Their combined total deposit (savings + investment)
 - The results are sorted by total deposit in descending order, so the highest value customers appear first.
+- [high value cusomers.sql]
 
 ## Transaction Frequency Analysis
 Goal of the Query
